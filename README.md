@@ -6,14 +6,8 @@
    -Telegram,pyrogram
    -Flask,REST API
    -SQlite
-   -piano
-   -painting
    -speak french 
    -speak romanian
-   -cook dinner sometimes
-   -win diploms and medal at chess
-   -can crochet
-   -can knit
 
    ##My projects:
    -[Flask API for wheather](https://github.com/user/wheather-api)
@@ -25,3 +19,8 @@
    -[an ai calculator]
 
    Contacts:[Telegram](https://t.me/username)|[Linkeldn](https://linkedin.com/in/username)
+
+   ##My soft skills
+   -can talk in public
+   -time management 
+   -management
